@@ -7,3 +7,6 @@ copy the directory to your sublime plugin directory
 
 and add a setting to your user settings file
 the setting like "luacheck_luacPath" : "**/luac" (luac path)
+
+
+and the default shortcuts is control + alt + l
